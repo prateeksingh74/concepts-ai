@@ -1,6 +1,6 @@
 # Concept Explainer
 
-A small API using Go and Python that explains computer science concepts with a textbook definition and a real-life analogy.
+A small API using Go and Python that explains computer science concepts with a textbook definition and a real-life analogy. Has a brief hard-coded dictionary and a default response for concepts not included in the dictionary.
 
 ## Folder Structure
 
